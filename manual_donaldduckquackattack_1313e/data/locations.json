@@ -1,0 +1,867 @@
+[
+  {
+    "name": "Defeated Bernadette the Chicken",
+    "region": "Duckie Mountain",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Invitation from Bernadette the Chicken|"
+  },
+  {
+    "name": "Defeated Beagle Boys",
+    "region": "Duckburg",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Invitation from Beagle Boys|"
+  },
+  {
+    "name": "Defeated Magica De Spell",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Invitation from Magica De Spell|"
+  },
+  {
+    "name": "Defeated Merlock",
+    "region": "Merlock's Temple",
+    "victory": true,
+    "category": [
+      "Bosses"
+    ],
+    "requires": "|Invitation from Bernadette the Chicken| AND |Invitation from Beagle Boys| AND |Invitation from Magica De Spell| AND |Invitation from Merlock| AND |Map to Duckie Mountain| AND |Map to Duckburg| AND |Map to Magica De Spell's Manor|"
+  },
+  {
+    "name": "Completed Forest Edge",
+    "region": "Duckie Mountain",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completed The Gorge",
+    "region": "Duckie Mountain",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completed Dangerous Cliff",
+    "region": "Duckie Mountain",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "name": "Completed Bear's Path",
+    "region": "Duckie Mountain",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "region": "Duckburg",
+    "name": "Completed First Avenue",
+    "category": [
+      "Levels: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckburg",
+    "name": "Completed Urban High-Rises",
+    "category": [
+      "Levels: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg",
+    "name": "Completed Main Street",
+    "category": [
+      "Levels: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "name": "Completed Haunted Hall",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "Levels: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completed Eerie Alley",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "Levels: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "name": "Completed Ghostly Path",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "Levels: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "name": "Completed Temple Entrance",
+    "region": "Merlock's Temple",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completed Artifact Way",
+    "region": "Merlock's Temple",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Completed Ancient Fate",
+    "region": "Merlock's Temple",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "name": "Completed Head Alley",
+    "region": "Merlock's Temple",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "region": "The Nephew's Favorites",
+    "name": "Completed Huey's Track",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Huey's Track|"
+  },
+  {
+    "region": "The Nephew's Favorites",
+    "name": "Completed Dewey's Rooftops",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Dewey's Rooftops|"
+  },
+  {
+    "region": "The Nephew's Favorites",
+    "name": "Completed Louie's Creepy Corridor",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Louie's Creepy Corridor|"
+  },
+  {
+    "region": "The Nephew's Favorites",
+    "name": "Completed The Nephew's Murky Way",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock The Nephew's Murky Way|"
+  },
+  {
+    "name": "Forest Edge - SPECIAL",
+    "region": "Duckie Mountain",
+    "category": [
+      "SPECIAL: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Gorge - SPECIAL",
+    "region": "Duckie Mountain",
+    "category": [
+      "SPECIAL: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Dangerous Cliff - SPECIAL",
+    "region": "Duckie Mountain",
+    "category": [
+      "SPECIAL: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "name": "Bear's Path - SPECIAL",
+    "region": "Duckie Mountain",
+    "category": [
+      "SPECIAL: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "name": "First Avenue - SPECIAL",
+    "region": "Duckburg",
+    "category": [
+      "SPECIAL: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckburg",
+    "name": "Urban High-Rises - SPECIAL",
+    "category": [
+      "SPECIAL: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg",
+    "name": "Main Street - SPECIAL",
+    "category": [
+      "SPECIAL: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "name": "Haunted Hall - SPECIAL",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "SPECIAL: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eerie Alley - SPECIAL",
+    "region": "Magica De Spell's Manor",
+    "category": [
+      "SPECIAL: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "region": "Magica De Spell's Manor",
+    "name": "Ghostly Path - SPECIAL",
+    "category": [
+      "SPECIAL: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "name": "Temple Entrance - SPECIAL",
+    "region": "Merlock's Temple",
+    "category": [
+      "SPECIAL: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Artifact Way - SPECIAL",
+    "region": "Merlock's Temple",
+    "category": [
+      "SPECIAL: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ancient Fate - SPECIAL",
+    "region": "Merlock's Temple",
+    "category": [
+      "SPECIAL: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "name": "Head Alley - SPECIAL",
+    "region": "Merlock's Temple",
+    "category": [
+      "SPECIAL: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "name": "Forst Edge - Timer Challenge",
+    "region": "Duckie Mountain - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Timer Challenge",
+    "name": "The Gorge - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Timer Challenge",
+    "name": "Dangerous Cliff - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "name": "Bear's Path - Timer Challenge",
+    "region": "Duckie Mountain - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "region": "Duckburg - Timer Challenge",
+    "name": "First Avenue - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckburg - Timer Challenge",
+    "name": "Urban High-Rises - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg - Timer Challenge",
+    "name": "Main Street - Timer Challenge",
+    "category": [
+      "Timer Challenge: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Timer Challlenge",
+    "name": "Haunted Hall - Timer Challenge",
+    "category": [
+      "Timer Challenge: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Magica De Spell's Manor - Timer Challlenge",
+    "name": "Eerie Alley - Timer Challenge",
+    "category": [
+      "Timer Challenge: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Timer Challlenge",
+    "name": "Ghostly Path - Timer Challenge",
+    "category": [
+      "Timer Challenge: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "region": "Merlock's Temple - Timer Challlenge",
+    "name": "Temple Entrance - Timer Challenge",
+    "category": [
+      "Timer Challenge: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Timer Challlenge",
+    "name": "Artifact Way - Timer Challenge",
+    "category": [
+      "Timer Challenge: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Timer Challlenge",
+    "name": "Ancient Fate - Timer Challenge",
+    "category": [
+      "Timer Challenge: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "region": "Merlock's Temple - Timer Challlenge",
+    "name": "Head Alley - Timer Challenge",
+    "category": [
+      "Timer Challenge: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "region": "The Nephew's Favorites - Timer Challlenge",
+    "name": "Huey's Track - Timer Challenge",
+    "category": [
+      "Timer Challenge: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Huey's Track|"
+  },
+  {
+    "region": "The Nephew's Favorites - Timer Challlenge",
+    "name": "Dewey's Rooftops - Timer Challenge",
+    "category": [
+      "Timer Challenge: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Dewey's Rooftops|"
+  },
+  {
+    "region": "The Nephew's Favorites - Timer Challlenge",
+    "name": "Louie's Creepy Corridor - Timer Challenge",
+    "category": [
+      "Timer Challenge: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock Louie's Creepy Corridor|"
+  },
+  {
+    "region": "The Nephew's Favorites - Timer Challlenge",
+    "name": "The Nephew's Murky Way - Timer Challenge",
+    "category": [
+      "Timer Challenge: The Nephew's Favorites"
+    ],
+    "requires": "|Unlock The Nephew's Murky Way|"
+  },
+  {
+    "region": "Duckie Mountain - Special Challenge",
+    "name": "Forest Edge - Timer Challenge",
+    "category": [
+      "Special Challenge: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Special Challenge",
+    "name": "The Gorge - Special Challenge",
+    "category": [
+      "Special Challenge: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Special Challenge",
+    "name": "Dangerous Cliff - Special Challenge",
+    "category": [
+      "Special Challenge: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "region": "Duckie Mountain - Special Challenge",
+    "name": "Bear's Path - Special Challenge",
+    "category": [
+      "Special Challenge: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "region": "Duckburg - Special Challenge",
+    "name": "First Avenue - Special Challenge",
+    "category": [
+      "Special Challenge: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckburg - Special Challenge",
+    "name": "Urban High-Rises - Special Challenge",
+    "category": [
+      "Special Challenge: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg - Special Challenge",
+    "name": "Main Street - Special Challenge",
+    "category": [
+      "Special Challenge: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "name": "Haunted Hall - Special Challenge",
+    "region": "Magica De Spell's Manor - Special Challenge",
+    "category": [
+      "Special Challenge: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eerie Alley - Special Challenge",
+    "region": "Magica De Spell's Manor - Special Challenge",
+    "category": [
+      "Special Challenge: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "name": "Ghostly Path - Special Challenge",
+    "region": "Magica De Spell's Manor - Special Challenge",
+    "category": [
+      "Special Challenge: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "name": "Temple Entrance - Special Challenge",
+    "region": "Merlock's Temple - Special Challenge",
+    "category": [
+      "Special Challenge: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Special Challenge",
+    "name": "Artifact Way - Special Challenge",
+    "category": [
+      "Special Challenge: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Special Challenge",
+    "name": "Ancient Fate - Special Challenge",
+    "category": [
+      "Special Challenge: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "region": "Merlock's Temple - Special Challenge",
+    "name": "Head Alley - Special Challenge",
+    "category": [
+      "Special Challenge: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Forest Edge - Golden Thread 1",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Forest Edge - Golden Thread 2",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Forest Edge - Golden Thread 3",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "The Gorge - Golden Thread 1",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "The Gorge - Golden Thread 2",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "The Gorge - Golden Thread 3",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Dangerous Cliff - Golden Thread 1",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Dangerous Cliff - Golden Thread 2",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Dangerous Cliff - Golden Thread 3",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": "|Unlock Dangerous Cliff|"
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Bear's Path - Golden Thread 1",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "region": "Duckie Mountain - Golden Threads",
+    "name": "Bear's Path - Golden Thread 2",
+    "category": [
+      "Golden Threads: Duckie Mountain"
+    ],
+    "requires": "|Unlock Bear's Path|"
+  },
+  {
+    "name": "First Avenue - Golden Thread 1",
+    "region": "Duckburg- Golden Threads",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "name": "First Avenue - Golden Thread 2",
+    "region": "Duckburg- Golden Threads",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "name": "First Avenue - Golden Thread 3",
+    "region": "Duckburg- Golden Threads",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Duckburg- Golden Threads",
+    "name": "Urban High-Rises - Golden Thread 1",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg- Golden Threads",
+    "name": "Urban High-Rises - Golden Thread 2",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "region": "Duckburg- Golden Threads",
+    "name": "Urban High-Rises - Golden Thread 3",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": "|Unlock Urban High-Rises|"
+  },
+  {
+    "name": "Main Street - Golden Thread 1",
+    "region": "Duckburg- Golden Threads",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "name": "Main Street - Golden Thread 2",
+    "region": "Duckburg- Golden Threads",
+    "category": [
+      "Golden Threads: Duckburg"
+    ],
+    "requires": "|Unlock Main Street|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Haunted Hall - Golden Thread 1",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Haunted Hall - Golden Thread 2",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Haunted Hall - Golden Thread 3",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Eerie Alley - Golden Thread 1",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Eerie Alley - Golden Thread 2",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Eerie Alley - Golden Thread 3",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Eerie Alley|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Ghostly Path - Golden Thread 1",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Ghostly Path - Golden Thread 2",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "region": "Magica De Spell's Manor - Golden Threads",
+    "name": "Ghostly Path - Golden Thread 3",
+    "category": [
+      "Golden Threads: Magica De Spell's Manor"
+    ],
+    "requires": "|Unlock Ghostly Path|"
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Temple Entrance - Golden Thread 1",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Temple Entrance - Golden Thread 2",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Temple Entrance - Golden Thread 3",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Artifact Way - Golden Thread 1",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Artifact Way - Golden Thread 2",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Artifact Way - Golden Thread 3",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": []
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Ancient Fate - Golden Thread 1",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Ancient Fate - Golden Thread 2",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Ancient Fate - Golden Thread 3",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Ancient Fate|"
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Head Alley - Golden Thread 1",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "region": "Merlock's Temple - Golden Threads",
+    "name": "Head Alley - Golden Thread 2",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  },
+  {
+    "name": "Head Alley - Golden Thread 3",
+    "region": "Merlock's Temple - Golden Threads",
+    "category": [
+      "Golden Threads: Merlock's Temple"
+    ],
+    "requires": "|Unlock Head Alley|"
+  }
+]

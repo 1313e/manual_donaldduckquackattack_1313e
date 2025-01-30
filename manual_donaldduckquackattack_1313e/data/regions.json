@@ -1,0 +1,74 @@
+{
+  "Duckie Mountain": {
+    "connects_to": [],
+    "requires": "|Map to Duckie Mountain|"
+  },
+  "Duckburg": {
+    "connects_to": [],
+    "requires": "|Map to Duckburg|"
+  },
+  "Magica De Spell's Manor": {
+    "connects_to": [],
+    "requires": "|Map to Magica De Spell's Manor|"
+  },
+  "Merlock's Temple": {
+    "connects_to": [],
+    "requires": "|Map to Merlock's Temple|"
+  },
+  "The Nephew's Favorites": {
+    "connects_to": [],
+    "requires": "|Map to The Nephew's Favorites|"
+  },
+  "Duckie Mountain - Timer Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Duckie Mountain| AND |Gladstone's Glove|"
+  },
+  "Duckburg - Timer Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Duckburg| AND |Gladstone's Glove|"
+  },
+  "Magica De Spell's Manor - Timer Challlenge": {
+    "connects_to": [],
+    "requires": "|Map to Magica De Spell's Manor| AND |Gladstone's Glove|"
+  },
+  "Merlock's Temple - Timer Challlenge": {
+    "connects_to": [],
+    "requires": "|Map to Merlock's Temple| AND |Gladstone's Glove|"
+  },
+  "The Nephew's Favorites - Timer Challlenge": {
+    "connects_to": [],
+    "requires": "|Map to The Nephew's Favorites| AND |Gladstone's Glove|"
+  },
+  "Duckie Mountain - Special Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Duckie Mountain| AND |The Nephew's Computer Program| AND |Special Moves in Duckie Mountain|"
+  },
+  "Duckburg - Special Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Duckburg| AND |The Nephew's Computer Program| AND |Special Moves in Duckburg|"
+  },
+  "Magica De Spell's Manor - Special Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Magica De Spell's Manor| AND |The Nephew's Computer Program| AND |Special Moves in Magica De Spell's Manor|"
+  },
+  "Merlock's Temple - Special Challenge": {
+    "connects_to": [],
+    "requires": "|Map to Merlock's Temple| AND |The Nephew's Computer Program| AND |Special Moves in Merlock's Temple|"
+  },
+  "Duckie Mountain - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Map to Duckie Mountain| AND |Hyper Donald in Duckie Mountain|"
+  },
+  "Duckburg- Golden Threads": {
+    "connects_to": [],
+    "requires": "|Map to Duckburg| AND |Hyper Donald in Duckburg|"
+  },
+  "Magica De Spell's Manor - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Map to Magica De Spell's Manor| AND |Hyper Donald in Magica De Spell's Manor|"
+  },
+  "Merlock's Temple - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Map to Merlock's Temple| AND |Hyper Donald in Merlock's Temple|"
+  }
+}

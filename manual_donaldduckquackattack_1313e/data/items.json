@@ -1,0 +1,258 @@
+[
+  {
+    "count": 1,
+    "name": "Map to Duckie Mountain",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Map to Duckburg",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Map to Magica De Spell's Manor",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Map to Merlock's Temple",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invitation from Bernadette the Chicken",
+    "category": [
+      "Invitations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invitation from Beagle Boys",
+    "category": [
+      "Invitations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invitation from Magica De Spell",
+    "category": [
+      "Invitations"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Invitation from Merlock",
+    "category": [
+      "Invitations"
+    ],
+    "progression": true
+  },
+  {
+    "count": "40",
+    "name": "Golden Thread",
+    "category": [
+      "Miscellaneous"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Donald in Duckie Mountain",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Donald in Duckburg",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Donald in Magica De Spell's Manor",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyper Donald in Merlock's Temple",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Dangerous Cliff",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Bear's Path",
+    "category": [
+      "Levels: Duckie Mountain"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Urban High-Rises",
+    "category": [
+      "Levels: Duckburg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Main Street",
+    "category": [
+      "Levels: Duckburg"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Eerie Alley",
+    "category": [
+      "Levels: Magica De Spell's Manor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Ghostly Path",
+    "category": [
+      "Levels: Magica De Spell's Manor"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Ancient Fate",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Head Alley",
+    "category": [
+      "Levels: Merlock's Temple"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Special Moves in Duckie Mountain",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Special Moves in Duckburg",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Special Moves in Magica De Spell's Manor",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Special Moves in Merlock's Temple",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Map to The Nephew's Favorites",
+    "category": [
+      "Maps"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Huey's Track",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Dewey's Rooftops",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock Louie's Creepy Corridor",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Unlock The Nephew's Murky Way",
+    "category": [
+      "Levels: The Nephew's Favorites"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gladstone's Glove",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Nephew's Computer Program",
+    "category": [
+      "Miscellaneous"
+    ],
+    "progression": true
+  }
+]
