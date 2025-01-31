@@ -105,70 +105,6 @@
   },
   {
     "count": 1,
-    "name": "Unlock Dangerous Cliff",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Bear's Path",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Urban High-Rises",
-    "category": [
-      "Levels: Duckburg"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Main Street",
-    "category": [
-      "Levels: Duckburg"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Eerie Alley",
-    "category": [
-      "Levels: Magica De Spell's Manor"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Ghostly Path",
-    "category": [
-      "Levels: Magica De Spell's Manor"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Ancient Fate",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Unlock Head Alley",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
     "name": "Special Moves in Duckie Mountain",
     "category": [
       "Miscellaneous"
@@ -242,14 +178,6 @@
   {
     "count": 1,
     "name": "Gladstone's Glove",
-    "category": [
-      "Miscellaneous"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Nephew's Computer Program",
     "category": [
       "Miscellaneous"
     ],

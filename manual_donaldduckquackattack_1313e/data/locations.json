@@ -54,7 +54,7 @@
     "category": [
       "Levels: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "name": "Completed Bear's Path",
@@ -62,7 +62,7 @@
     "category": [
       "Levels: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "region": "Duckburg",
@@ -78,7 +78,7 @@
     "category": [
       "Levels: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg",
@@ -86,7 +86,7 @@
     "category": [
       "Levels: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "name": "Completed Haunted Hall",
@@ -102,7 +102,7 @@
     "category": [
       "Levels: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "name": "Completed Ghostly Path",
@@ -110,7 +110,7 @@
     "category": [
       "Levels: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "name": "Completed Temple Entrance",
@@ -134,7 +134,7 @@
     "category": [
       "Levels: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "name": "Completed Head Alley",
@@ -142,7 +142,7 @@
     "category": [
       "Levels: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "region": "The Nephew's Favorites",
@@ -198,7 +198,7 @@
     "category": [
       "SPECIAL: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "name": "Bear's Path - SPECIAL",
@@ -206,7 +206,7 @@
     "category": [
       "SPECIAL: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "name": "First Avenue - SPECIAL",
@@ -222,7 +222,7 @@
     "category": [
       "SPECIAL: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg",
@@ -230,7 +230,7 @@
     "category": [
       "SPECIAL: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "name": "Haunted Hall - SPECIAL",
@@ -246,7 +246,7 @@
     "category": [
       "SPECIAL: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor",
@@ -254,7 +254,7 @@
     "category": [
       "SPECIAL: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "name": "Temple Entrance - SPECIAL",
@@ -278,7 +278,7 @@
     "category": [
       "SPECIAL: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "name": "Head Alley - SPECIAL",
@@ -286,7 +286,7 @@
     "category": [
       "SPECIAL: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "name": "Forst Edge - Timer Challenge",
@@ -310,7 +310,7 @@
     "category": [
       "Timer Challenge: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "name": "Bear's Path - Timer Challenge",
@@ -318,7 +318,7 @@
     "category": [
       "Timer Challenge: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "region": "Duckburg - Timer Challenge",
@@ -334,7 +334,7 @@
     "category": [
       "Timer Challenge: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg - Timer Challenge",
@@ -342,7 +342,7 @@
     "category": [
       "Timer Challenge: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Timer Challlenge",
@@ -358,7 +358,7 @@
     "category": [
       "Timer Challenge: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Timer Challlenge",
@@ -366,7 +366,7 @@
     "category": [
       "Timer Challenge: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Timer Challlenge",
@@ -390,7 +390,7 @@
     "category": [
       "Timer Challenge: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Timer Challlenge",
@@ -398,7 +398,7 @@
     "category": [
       "Timer Challenge: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "region": "The Nephew's Favorites - Timer Challlenge",
@@ -454,7 +454,7 @@
     "category": [
       "Special Challenge: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Special Challenge",
@@ -462,7 +462,7 @@
     "category": [
       "Special Challenge: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "region": "Duckburg - Special Challenge",
@@ -478,7 +478,7 @@
     "category": [
       "Special Challenge: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg - Special Challenge",
@@ -486,7 +486,7 @@
     "category": [
       "Special Challenge: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "name": "Haunted Hall - Special Challenge",
@@ -502,7 +502,7 @@
     "category": [
       "Special Challenge: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "name": "Ghostly Path - Special Challenge",
@@ -510,7 +510,7 @@
     "category": [
       "Special Challenge: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "name": "Temple Entrance - Special Challenge",
@@ -534,7 +534,7 @@
     "category": [
       "Special Challenge: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Special Challenge",
@@ -542,7 +542,7 @@
     "category": [
       "Special Challenge: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Golden Threads",
@@ -598,7 +598,7 @@
     "category": [
       "Golden Threads: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Golden Threads",
@@ -606,7 +606,7 @@
     "category": [
       "Golden Threads: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Golden Threads",
@@ -614,7 +614,7 @@
     "category": [
       "Golden Threads: Duckie Mountain"
     ],
-    "requires": "|Unlock Dangerous Cliff|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Golden Threads",
@@ -622,7 +622,7 @@
     "category": [
       "Golden Threads: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "region": "Duckie Mountain - Golden Threads",
@@ -630,7 +630,7 @@
     "category": [
       "Golden Threads: Duckie Mountain"
     ],
-    "requires": "|Unlock Bear's Path|"
+    "requires": []
   },
   {
     "name": "First Avenue - Golden Thread 1",
@@ -662,7 +662,7 @@
     "category": [
       "Golden Threads: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg- Golden Threads",
@@ -670,7 +670,7 @@
     "category": [
       "Golden Threads: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "region": "Duckburg- Golden Threads",
@@ -678,7 +678,7 @@
     "category": [
       "Golden Threads: Duckburg"
     ],
-    "requires": "|Unlock Urban High-Rises|"
+    "requires": []
   },
   {
     "name": "Main Street - Golden Thread 1",
@@ -686,7 +686,7 @@
     "category": [
       "Golden Threads: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "name": "Main Street - Golden Thread 2",
@@ -694,7 +694,7 @@
     "category": [
       "Golden Threads: Duckburg"
     ],
-    "requires": "|Unlock Main Street|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -726,7 +726,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -734,7 +734,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -742,7 +742,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Eerie Alley|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -750,7 +750,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -758,7 +758,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "region": "Magica De Spell's Manor - Golden Threads",
@@ -766,7 +766,7 @@
     "category": [
       "Golden Threads: Magica De Spell's Manor"
     ],
-    "requires": "|Unlock Ghostly Path|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Golden Threads",
@@ -822,7 +822,7 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Golden Threads",
@@ -830,7 +830,7 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Golden Threads",
@@ -838,7 +838,7 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Ancient Fate|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Golden Threads",
@@ -846,7 +846,7 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "region": "Merlock's Temple - Golden Threads",
@@ -854,7 +854,7 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   },
   {
     "name": "Head Alley - Golden Thread 3",
@@ -862,6 +862,6 @@
     "category": [
       "Golden Threads: Merlock's Temple"
     ],
-    "requires": "|Unlock Head Alley|"
+    "requires": []
   }
 ]

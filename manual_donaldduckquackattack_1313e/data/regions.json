@@ -41,19 +41,19 @@
   },
   "Duckie Mountain - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckie Mountain| AND |The Nephew's Computer Program| AND |Special Moves in Duckie Mountain|"
+    "requires": "|Map to Duckie Mountain| AND |Special Moves in Duckie Mountain|"
   },
   "Duckburg - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckburg| AND |The Nephew's Computer Program| AND |Special Moves in Duckburg|"
+    "requires": "|Map to Duckburg| AND |Special Moves in Duckburg|"
   },
   "Magica De Spell's Manor - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Magica De Spell's Manor| AND |The Nephew's Computer Program| AND |Special Moves in Magica De Spell's Manor|"
+    "requires": "|Map to Magica De Spell's Manor| AND |Special Moves in Magica De Spell's Manor|"
   },
   "Merlock's Temple - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Merlock's Temple| AND |The Nephew's Computer Program| AND |Special Moves in Merlock's Temple|"
+    "requires": "|Map to Merlock's Temple| AND |Special Moves in Merlock's Temple|"
   },
   "Duckie Mountain - Golden Threads": {
     "connects_to": [],
