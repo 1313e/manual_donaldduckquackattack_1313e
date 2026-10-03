@@ -1,867 +1,2837 @@
-[
-  {
-    "name": "Defeated Bernadette the Chicken",
-    "region": "Duckie Mountain",
-    "category": [
-      "Bosses"
-    ],
-    "requires": "|Invitation from Bernadette the Chicken|"
-  },
-  {
-    "name": "Defeated Beagle Boys",
-    "region": "Duckburg",
-    "category": [
-      "Bosses"
-    ],
-    "requires": "|Invitation from Beagle Boys|"
-  },
-  {
-    "name": "Defeated Magica De Spell",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "Bosses"
-    ],
-    "requires": "|Invitation from Magica De Spell|"
-  },
-  {
-    "name": "Defeated Merlock",
-    "region": "Merlock's Temple",
-    "victory": true,
-    "category": [
-      "Bosses"
-    ],
-    "requires": "|Invitation from Bernadette the Chicken| AND |Invitation from Beagle Boys| AND |Invitation from Magica De Spell| AND |Invitation from Merlock| AND |Map to Duckie Mountain| AND |Map to Duckburg| AND |Map to Magica De Spell's Manor|"
-  },
-  {
-    "name": "Completed Forest Edge",
-    "region": "Duckie Mountain",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed The Gorge",
-    "region": "Duckie Mountain",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Dangerous Cliff",
-    "region": "Duckie Mountain",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Bear's Path",
-    "region": "Duckie Mountain",
-    "category": [
-      "Levels: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg",
-    "name": "Completed First Avenue",
-    "category": [
-      "Levels: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg",
-    "name": "Completed Urban High-Rises",
-    "category": [
-      "Levels: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg",
-    "name": "Completed Main Street",
-    "category": [
-      "Levels: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Haunted Hall",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "Levels: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Eerie Alley",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "Levels: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Ghostly Path",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "Levels: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Temple Entrance",
-    "region": "Merlock's Temple",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Artifact Way",
-    "region": "Merlock's Temple",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Ancient Fate",
-    "region": "Merlock's Temple",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Completed Head Alley",
-    "region": "Merlock's Temple",
-    "category": [
-      "Levels: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Nephew's Favorites",
-    "name": "Completed Huey's Track",
-    "category": [
-      "Levels: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Huey's Track|"
-  },
-  {
-    "region": "The Nephew's Favorites",
-    "name": "Completed Dewey's Rooftops",
-    "category": [
-      "Levels: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Dewey's Rooftops|"
-  },
-  {
-    "region": "The Nephew's Favorites",
-    "name": "Completed Louie's Creepy Corridor",
-    "category": [
-      "Levels: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Louie's Creepy Corridor|"
-  },
-  {
-    "region": "The Nephew's Favorites",
-    "name": "Completed The Nephew's Murky Way",
-    "category": [
-      "Levels: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock The Nephew's Murky Way|"
-  },
-  {
-    "name": "Forest Edge - SPECIAL",
-    "region": "Duckie Mountain",
-    "category": [
-      "SPECIAL: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "The Gorge - SPECIAL",
-    "region": "Duckie Mountain",
-    "category": [
-      "SPECIAL: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Dangerous Cliff - SPECIAL",
-    "region": "Duckie Mountain",
-    "category": [
-      "SPECIAL: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Bear's Path - SPECIAL",
-    "region": "Duckie Mountain",
-    "category": [
-      "SPECIAL: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "First Avenue - SPECIAL",
-    "region": "Duckburg",
-    "category": [
-      "SPECIAL: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg",
-    "name": "Urban High-Rises - SPECIAL",
-    "category": [
-      "SPECIAL: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg",
-    "name": "Main Street - SPECIAL",
-    "category": [
-      "SPECIAL: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Haunted Hall - SPECIAL",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "SPECIAL: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Eerie Alley - SPECIAL",
-    "region": "Magica De Spell's Manor",
-    "category": [
-      "SPECIAL: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor",
-    "name": "Ghostly Path - SPECIAL",
-    "category": [
-      "SPECIAL: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Temple Entrance - SPECIAL",
-    "region": "Merlock's Temple",
-    "category": [
-      "SPECIAL: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Artifact Way - SPECIAL",
-    "region": "Merlock's Temple",
-    "category": [
-      "SPECIAL: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Ancient Fate - SPECIAL",
-    "region": "Merlock's Temple",
-    "category": [
-      "SPECIAL: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Head Alley - SPECIAL",
-    "region": "Merlock's Temple",
-    "category": [
-      "SPECIAL: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Forst Edge - Timer Challenge",
-    "region": "Duckie Mountain - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Timer Challenge",
-    "name": "The Gorge - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Timer Challenge",
-    "name": "Dangerous Cliff - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Bear's Path - Timer Challenge",
-    "region": "Duckie Mountain - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Timer Challenge",
-    "name": "First Avenue - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Timer Challenge",
-    "name": "Urban High-Rises - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Timer Challenge",
-    "name": "Main Street - Timer Challenge",
-    "category": [
-      "Timer Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Timer Challlenge",
-    "name": "Haunted Hall - Timer Challenge",
-    "category": [
-      "Timer Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Timer Challlenge",
-    "name": "Eerie Alley - Timer Challenge",
-    "category": [
-      "Timer Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Timer Challlenge",
-    "name": "Ghostly Path - Timer Challenge",
-    "category": [
-      "Timer Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Timer Challlenge",
-    "name": "Temple Entrance - Timer Challenge",
-    "category": [
-      "Timer Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Timer Challlenge",
-    "name": "Artifact Way - Timer Challenge",
-    "category": [
-      "Timer Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Timer Challlenge",
-    "name": "Ancient Fate - Timer Challenge",
-    "category": [
-      "Timer Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Timer Challlenge",
-    "name": "Head Alley - Timer Challenge",
-    "category": [
-      "Timer Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "The Nephew's Favorites - Timer Challlenge",
-    "name": "Huey's Track - Timer Challenge",
-    "category": [
-      "Timer Challenge: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Huey's Track|"
-  },
-  {
-    "region": "The Nephew's Favorites - Timer Challlenge",
-    "name": "Dewey's Rooftops - Timer Challenge",
-    "category": [
-      "Timer Challenge: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Dewey's Rooftops|"
-  },
-  {
-    "region": "The Nephew's Favorites - Timer Challlenge",
-    "name": "Louie's Creepy Corridor - Timer Challenge",
-    "category": [
-      "Timer Challenge: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock Louie's Creepy Corridor|"
-  },
-  {
-    "region": "The Nephew's Favorites - Timer Challlenge",
-    "name": "The Nephew's Murky Way - Timer Challenge",
-    "category": [
-      "Timer Challenge: The Nephew's Favorites"
-    ],
-    "requires": "|Unlock The Nephew's Murky Way|"
-  },
-  {
-    "region": "Duckie Mountain - Special Challenge",
-    "name": "Forest Edge - Timer Challenge",
-    "category": [
-      "Special Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Special Challenge",
-    "name": "The Gorge - Special Challenge",
-    "category": [
-      "Special Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Special Challenge",
-    "name": "Dangerous Cliff - Special Challenge",
-    "category": [
-      "Special Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Special Challenge",
-    "name": "Bear's Path - Special Challenge",
-    "category": [
-      "Special Challenge: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Special Challenge",
-    "name": "First Avenue - Special Challenge",
-    "category": [
-      "Special Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Special Challenge",
-    "name": "Urban High-Rises - Special Challenge",
-    "category": [
-      "Special Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg - Special Challenge",
-    "name": "Main Street - Special Challenge",
-    "category": [
-      "Special Challenge: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Haunted Hall - Special Challenge",
-    "region": "Magica De Spell's Manor - Special Challenge",
-    "category": [
-      "Special Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Eerie Alley - Special Challenge",
-    "region": "Magica De Spell's Manor - Special Challenge",
-    "category": [
-      "Special Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Ghostly Path - Special Challenge",
-    "region": "Magica De Spell's Manor - Special Challenge",
-    "category": [
-      "Special Challenge: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Temple Entrance - Special Challenge",
-    "region": "Merlock's Temple - Special Challenge",
-    "category": [
-      "Special Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Special Challenge",
-    "name": "Artifact Way - Special Challenge",
-    "category": [
-      "Special Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Special Challenge",
-    "name": "Ancient Fate - Special Challenge",
-    "category": [
-      "Special Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Special Challenge",
-    "name": "Head Alley - Special Challenge",
-    "category": [
-      "Special Challenge: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Forest Edge - Golden Thread 1",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Forest Edge - Golden Thread 2",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Forest Edge - Golden Thread 3",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "The Gorge - Golden Thread 1",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "The Gorge - Golden Thread 2",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "The Gorge - Golden Thread 3",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Dangerous Cliff - Golden Thread 1",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Dangerous Cliff - Golden Thread 2",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Dangerous Cliff - Golden Thread 3",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Bear's Path - Golden Thread 1",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckie Mountain - Golden Threads",
-    "name": "Bear's Path - Golden Thread 2",
-    "category": [
-      "Golden Threads: Duckie Mountain"
-    ],
-    "requires": []
-  },
-  {
-    "name": "First Avenue - Golden Thread 1",
-    "region": "Duckburg- Golden Threads",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "First Avenue - Golden Thread 2",
-    "region": "Duckburg- Golden Threads",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "First Avenue - Golden Thread 3",
-    "region": "Duckburg- Golden Threads",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg- Golden Threads",
-    "name": "Urban High-Rises - Golden Thread 1",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg- Golden Threads",
-    "name": "Urban High-Rises - Golden Thread 2",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Duckburg- Golden Threads",
-    "name": "Urban High-Rises - Golden Thread 3",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Main Street - Golden Thread 1",
-    "region": "Duckburg- Golden Threads",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Main Street - Golden Thread 2",
-    "region": "Duckburg- Golden Threads",
-    "category": [
-      "Golden Threads: Duckburg"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Haunted Hall - Golden Thread 1",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Haunted Hall - Golden Thread 2",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Haunted Hall - Golden Thread 3",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Eerie Alley - Golden Thread 1",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Eerie Alley - Golden Thread 2",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Eerie Alley - Golden Thread 3",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Ghostly Path - Golden Thread 1",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Ghostly Path - Golden Thread 2",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Magica De Spell's Manor - Golden Threads",
-    "name": "Ghostly Path - Golden Thread 3",
-    "category": [
-      "Golden Threads: Magica De Spell's Manor"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Temple Entrance - Golden Thread 1",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Temple Entrance - Golden Thread 2",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Temple Entrance - Golden Thread 3",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Artifact Way - Golden Thread 1",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Artifact Way - Golden Thread 2",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Artifact Way - Golden Thread 3",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Ancient Fate - Golden Thread 1",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Ancient Fate - Golden Thread 2",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Ancient Fate - Golden Thread 3",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Head Alley - Golden Thread 1",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "region": "Merlock's Temple - Golden Threads",
-    "name": "Head Alley - Golden Thread 2",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  },
-  {
-    "name": "Head Alley - Golden Thread 3",
-    "region": "Merlock's Temple - Golden Threads",
-    "category": [
-      "Golden Threads: Merlock's Temple"
-    ],
-    "requires": []
-  }
-]
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Bernadette the Chicken - Defeated",
+      "region": "Duckie Mountain",
+      "category": [
+        "Bosses",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": "|Invitation from Bernadette the Chicken|"
+    },
+    {
+      "name": "Beagle Boys - Defeated",
+      "region": "Duckburg",
+      "category": [
+        "Bosses",
+        "Levels: Duckburg"
+      ],
+      "requires": "|Invitation from Beagle Boys|"
+    },
+    {
+      "name": "Magica De Spell - Defeated",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Bosses",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": "|Invitation from Magica De Spell|"
+    },
+    {
+      "name": "Merlock - Defeated",
+      "region": "Merlock's Temple",
+      "victory": true,
+      "category": [
+        "Bosses",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": "|Invitation from Bernadette the Chicken| AND |Invitation from Beagle Boys| AND |Invitation from Magica De Spell| AND |Invitation from Merlock| AND |Map to Duckie Mountain| AND |Map to Duckburg| AND |Map to Magica De Spell's Manor|"
+    },
+    {
+      "name": "Forest Edge - Completed",
+      "region": "Duckie Mountain",
+      "category": [
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Completed",
+      "region": "Duckie Mountain",
+      "category": [
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Completed",
+      "region": "Duckie Mountain",
+      "category": [
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Completed",
+      "region": "Duckie Mountain",
+      "category": [
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg",
+      "name": "First Avenue - Completed",
+      "category": [
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg",
+      "name": "Urban High-Rises - Completed",
+      "category": [
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg",
+      "name": "Main Street - Completed",
+      "category": [
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Completed",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Completed",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Completed",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Completed",
+      "region": "Merlock's Temple",
+      "category": [
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Completed",
+      "region": "Merlock's Temple",
+      "category": [
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Completed",
+      "region": "Merlock's Temple",
+      "category": [
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Completed",
+      "region": "Merlock's Temple",
+      "category": [
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Huey's Track",
+      "name": "Huey's Track - Completed",
+      "category": [
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Dewey's Rooftops",
+      "name": "Dewey's Rooftops - Completed",
+      "category": [
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Louie's Creepy Corridor",
+      "name": "Louie's Creepy Corridor - Completed",
+      "category": [
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "The Nephew's Murky Way",
+      "name": "The Nephew's Murky Way - Completed",
+      "category": [
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - SPECIAL",
+      "region": "Duckie Mountain",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - SPECIAL",
+      "region": "Duckie Mountain",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - SPECIAL",
+      "region": "Duckie Mountain",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - SPECIAL",
+      "region": "Duckie Mountain",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - SPECIAL",
+      "region": "Duckburg",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg",
+      "name": "Urban High-Rises - SPECIAL",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg",
+      "name": "Main Street - SPECIAL",
+      "category": [
+        "SPECIAL",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - SPECIAL",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "SPECIAL",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - SPECIAL",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "SPECIAL",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor",
+      "name": "Ghostly Path - SPECIAL",
+      "category": [
+        "SPECIAL",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - SPECIAL",
+      "region": "Merlock's Temple",
+      "category": [
+        "SPECIAL",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - SPECIAL",
+      "region": "Merlock's Temple",
+      "category": [
+        "SPECIAL",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - SPECIAL",
+      "region": "Merlock's Temple",
+      "category": [
+        "SPECIAL",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - SPECIAL",
+      "region": "Merlock's Temple",
+      "category": [
+        "SPECIAL",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Timer Challenge",
+      "region": "Duckie Mountain - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Timer Challenge",
+      "name": "The Gorge - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Timer Challenge",
+      "name": "Dangerous Cliff - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Timer Challenge",
+      "region": "Duckie Mountain - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Timer Challenge",
+      "name": "First Avenue - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Timer Challenge",
+      "name": "Urban High-Rises - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Timer Challenge",
+      "name": "Main Street - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Timer Challenge",
+      "name": "Haunted Hall - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Timer Challenge",
+      "name": "Eerie Alley - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Timer Challenge",
+      "name": "Ghostly Path - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Timer Challenge",
+      "name": "Temple Entrance - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Timer Challenge",
+      "name": "Artifact Way - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Timer Challenge",
+      "name": "Ancient Fate - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Timer Challenge",
+      "name": "Head Alley - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Huey's Track",
+      "name": "Huey's Track - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": "|Gladstone's Glove|"
+    },
+    {
+      "region": "Dewey's Rooftops",
+      "name": "Dewey's Rooftops - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": "|Gladstone's Glove|"
+    },
+    {
+      "region": "Louie's Creepy Corridor",
+      "name": "Louie's Creepy Corridor - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": "|Gladstone's Glove|"
+    },
+    {
+      "region": "The Nephew's Murky Way",
+      "name": "The Nephew's Murky Way - Timer Challenge",
+      "category": [
+        "Timer Challenge",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": "|Gladstone's Glove|"
+    },
+    {
+      "region": "Duckie Mountain - Special Challenge",
+      "name": "Forest Edge - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Challenge",
+      "name": "The Gorge - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Challenge",
+      "name": "Dangerous Cliff - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Challenge",
+      "name": "Bear's Path - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Special Challenge",
+      "name": "First Avenue - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Special Challenge",
+      "name": "Urban High-Rises - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Special Challenge",
+      "name": "Main Street - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Special Challenge",
+      "region": "Magica De Spell's Manor - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Special Challenge",
+      "region": "Magica De Spell's Manor - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Special Challenge",
+      "region": "Magica De Spell's Manor - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Special Challenge",
+      "region": "Merlock's Temple - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Challenge",
+      "name": "Artifact Way - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Challenge",
+      "name": "Ancient Fate - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Challenge",
+      "name": "Head Alley - Special Challenge",
+      "category": [
+        "Special Challenge",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Forest Edge - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Forest Edge - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Forest Edge - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "The Gorge - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "The Gorge - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "The Gorge - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Dangerous Cliff - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Dangerous Cliff - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Dangerous Cliff - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Bear's Path - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Golden Threads",
+      "name": "Bear's Path - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Golden Thread 1",
+      "region": "Duckburg - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Golden Thread 2",
+      "region": "Duckburg - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Golden Thread 3",
+      "region": "Duckburg - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Golden Threads",
+      "name": "Urban High-Rises - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Golden Threads",
+      "name": "Urban High-Rises - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckburg - Golden Threads",
+      "name": "Urban High-Rises - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Golden Thread 1",
+      "region": "Duckburg - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Golden Thread 2",
+      "region": "Duckburg - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Haunted Hall - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Haunted Hall - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Haunted Hall - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Eerie Alley - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Eerie Alley - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Eerie Alley - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Ghostly Path - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Ghostly Path - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Golden Threads",
+      "name": "Ghostly Path - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Temple Entrance - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Temple Entrance - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Temple Entrance - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Artifact Way - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Artifact Way - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Artifact Way - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Ancient Fate - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Ancient Fate - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Ancient Fate - Golden Thread 3",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Head Alley - Golden Thread 1",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Golden Threads",
+      "name": "Head Alley - Golden Thread 2",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Golden Thread 3",
+      "region": "Merlock's Temple - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Moves",
+      "name": "Special Move - Yogabound",
+      "category": [
+        "Special Moves",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Moves",
+      "name": "Special Move - Ring A Ding-Ding",
+      "category": [
+        "Special Moves",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Moves",
+      "name": "Special Move - Soap Opera",
+      "category": [
+        "Special Moves",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Duckie Mountain - Special Moves",
+      "name": "Special Move - Pole Pose",
+      "category": [
+        "Special Moves",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Special Move - Soccer Chop",
+      "region": "Duckburg - Special Moves",
+      "category": [
+        "Special Moves",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Special Move - Spicy Golf",
+      "region": "Duckburg - Special Moves",
+      "category": [
+        "Special Moves",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Special Move - Fab Lifting",
+      "region": "Duckburg - Special Moves",
+      "category": [
+        "Special Moves",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Special Moves",
+      "name": "Special Move - Tap Ten",
+      "category": [
+        "Special Moves",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Special Moves",
+      "name": "Special Move - Ballet Basket",
+      "category": [
+        "Special Moves",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor - Special Moves",
+      "name": "Special Move - Stilt Tilt",
+      "category": [
+        "Special Moves",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Moves",
+      "name": "Special Move - Hi-Sky-Dive",
+      "category": [
+        "Special Moves",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Moves",
+      "name": "Special Move - Cannon Bulb",
+      "category": [
+        "Special Moves",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Moves",
+      "name": "Special Move - Beat Box",
+      "category": [
+        "Special Moves",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple - Special Moves",
+      "name": "Special Move - Servin' Skate",
+      "category": [
+        "Special Moves",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Golden Thread 1",
+      "region": "Huey's Track - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Golden Thread 2",
+      "region": "Huey's Track - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Golden Thread 3",
+      "region": "Huey's Track - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Golden Thread 1",
+      "region": "Dewey's Rooftops - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Golden Thread 2",
+      "region": "Dewey's Rooftops - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Golden Thread 3",
+      "region": "Dewey's Rooftops - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Golden Thread 1",
+      "region": "Louie's Creepy Corridor - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Golden Thread 2",
+      "region": "Louie's Creepy Corridor - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Golden Thread 3",
+      "region": "Louie's Creepy Corridor - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Golden Thread 1",
+      "region": "The Nephew's Murky Way - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Golden Thread 2",
+      "region": "The Nephew's Murky Way - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Golden Thread 3",
+      "region": "The Nephew's Murky Way - Golden Threads",
+      "category": [
+        "Golden Threads",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Gyro's Room",
+      "name": "Outfit - Tourist",
+      "category": [
+        "Outfits"
+      ],
+      "requires": "|Golden Thread:10|"
+    },
+    {
+      "region": "Gyro's Room",
+      "name": "Outfit - Knight",
+      "category": [
+        "Outfits"
+      ],
+      "requires": "|Golden Thread:20|"
+    },
+    {
+      "region": "Gyro's Room",
+      "name": "Outfit - Captain",
+      "category": [
+        "Outfits"
+      ],
+      "requires": "|Golden Thread:30|"
+    },
+    {
+      "region": "Gyro's Room",
+      "name": "Outfit - Admiral",
+      "category": [
+        "Outfits"
+      ],
+      "requires": "|Golden Thread:40|"
+    },
+    {
+      "name": "Forest Edge - Extra Life 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Extra Life 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Extra Life 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Extra Life 4",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Present 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Present 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Present 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Present 4",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Forest Edge - Present 5",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Extra Life 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Extra Life 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Extra Life 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 4",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 5",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Gorge - Present 6",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Extra Life 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Extra Life 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Extra Life 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 4",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 5",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dangerous Cliff - Present 6",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Extra Life 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Extra Life 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Present 1",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Present 2",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Present 3",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Bear's Path - Present 4",
+      "region": "Duckie Mountain",
+      "category": [
+        "Presents",
+        "Levels: Duckie Mountain"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Extra Life 1",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Extra Life 2",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Extra Life 3",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 1",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 2",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 3",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 4",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 5",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 6",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 7",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 8",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 9",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "First Avenue - Present 10",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Extra Life 1",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Extra Life 2",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Extra Life 3",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 1",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 2",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 3",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 4",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 5",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 6",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 7",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 8",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 9",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Urban High-Rises - Present 10",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Extra Life 1",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Extra Life 2",
+      "region": "Duckburg",
+      "category": [
+        "Extra Lives",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Present 1",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Present 2",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Present 3",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Present 4",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Main Street - Present 5",
+      "region": "Duckburg",
+      "category": [
+        "Presents",
+        "Levels: Duckburg"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Extra Life 1",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Extra Life 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Extra Life 3",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Present 1",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Present 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Present 3",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Haunted Hall - Present 4",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Extra Life 1",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Extra Life 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Magica De Spell's Manor",
+      "name": "Eerie Alley - Present 1",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 3",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 4",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 5",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 6",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Eerie Alley - Present 7",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Extra Life 1",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Extra Life 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Extra Lives",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 1",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 2",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 3",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 4",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 5",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 6",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 7",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ghostly Path - Present 8",
+      "region": "Magica De Spell's Manor",
+      "category": [
+        "Presents",
+        "Levels: Magica De Spell's Manor"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple",
+      "name": "Temple Entrance - Extra Life 1",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Extra Life 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Extra Life 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Extra Life 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Temple Entrance - Extra Life 5",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple",
+      "name": "Temple Entrance - Present 1",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple",
+      "name": "Temple Entrance - Present 2",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple",
+      "name": "Temple Entrance - Present 3",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Merlock's Temple",
+      "name": "Temple Entrance - Present 4",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Extra Life 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Extra Life 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Extra Life 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Extra Life 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Extra Life 5",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 5",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 6",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Artifact Way - Present 7",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Extra Life 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 5",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 6",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 7",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 8",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 9",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 10",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Ancient Fate - Present 11",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Extra Life 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Extra Life 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Extra Life 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Extra Life 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Extra Lives",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 1",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 2",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 3",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 4",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 5",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Head Alley - Present 6",
+      "region": "Merlock's Temple",
+      "category": [
+        "Presents",
+        "Levels: Merlock's Temple"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 1",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 2",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 3",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 4",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 5",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Extra Life 6",
+      "region": "Huey's Track",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Present 1",
+      "region": "Huey's Track",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Present 2",
+      "region": "Huey's Track",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Present 3",
+      "region": "Huey's Track",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Present 4",
+      "region": "Huey's Track",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Huey's Track - Present 5",
+      "region": "Huey's Track",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 1",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 2",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 3",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 4",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 5",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Extra Life 6",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Present 1",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Present 2",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Present 3",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Dewey's Rooftops - Present 4",
+      "region": "Dewey's Rooftops",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "Louie's Creepy Corridor",
+      "name": "Louie's Creepy Corridor - Extra Life 1",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Extra Life 2",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Extra Life 3",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Extra Life 4",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Present 1",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Present 2",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Present 3",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Present 4",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Louie's Creepy Corridor - Present 5",
+      "region": "Louie's Creepy Corridor",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "region": "The Nephew's Murky Way",
+      "name": "The Nephew's Murky Way - Extra Life 1",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Extra Life 2",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Extra Life 3",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Extra Life 4",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Extra Life 5",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Extra Lives",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 1",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 2",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 3",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 4",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 5",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 6",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 7",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 8",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "The Nephew's Murky Way - Present 9",
+      "region": "The Nephew's Murky Way",
+      "category": [
+        "Presents",
+        "Levels: The Nephew's Favorites"
+      ],
+      "requires": ""
+    }
+  ]
+}

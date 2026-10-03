@@ -1,74 +1,163 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Duckie Mountain": {
-    "connects_to": [],
+    "connects_to": [
+      "Duckie Mountain - Timer Challenge",
+      "Duckie Mountain - Special Challenge",
+      "Duckie Mountain - Golden Threads"
+    ],
     "requires": "|Map to Duckie Mountain|"
   },
   "Duckburg": {
-    "connects_to": [],
+    "connects_to": [
+      "Duckburg - Timer Challenge",
+      "Duckburg - Special Challenge",
+      "Duckburg - Golden Threads"
+    ],
     "requires": "|Map to Duckburg|"
   },
   "Magica De Spell's Manor": {
-    "connects_to": [],
+    "connects_to": [
+      "Magica De Spell's Manor - Timer Challenge",
+      "Magica De Spell's Manor - Special Challenge",
+      "Magica De Spell's Manor - Golden Threads"
+    ],
     "requires": "|Map to Magica De Spell's Manor|"
   },
   "Merlock's Temple": {
-    "connects_to": [],
+    "connects_to": [
+      "Merlock's Temple - Timer Challenge",
+      "Merlock's Temple - Special Challenge",
+      "Merlock's Temple - Golden Threads"
+    ],
     "requires": "|Map to Merlock's Temple|"
   },
   "The Nephew's Favorites": {
-    "connects_to": [],
+    "connects_to": [
+      "Huey's Track",
+      "Dewey's Rooftops",
+      "Louie's Creepy Corridor",
+      "The Nephew's Murky Way"
+    ],
     "requires": "|Map to The Nephew's Favorites|"
   },
   "Duckie Mountain - Timer Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckie Mountain| AND |Gladstone's Glove|"
+    "requires": "|Gladstone's Glove|"
   },
   "Duckburg - Timer Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckburg| AND |Gladstone's Glove|"
+    "requires": "|Gladstone's Glove|"
   },
-  "Magica De Spell's Manor - Timer Challlenge": {
+  "Magica De Spell's Manor - Timer Challenge": {
     "connects_to": [],
-    "requires": "|Map to Magica De Spell's Manor| AND |Gladstone's Glove|"
+    "requires": "|Gladstone's Glove|"
   },
-  "Merlock's Temple - Timer Challlenge": {
+  "Merlock's Temple - Timer Challenge": {
     "connects_to": [],
-    "requires": "|Map to Merlock's Temple| AND |Gladstone's Glove|"
-  },
-  "The Nephew's Favorites - Timer Challlenge": {
-    "connects_to": [],
-    "requires": "|Map to The Nephew's Favorites| AND |Gladstone's Glove|"
+    "requires": "|Gladstone's Glove|"
   },
   "Duckie Mountain - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckie Mountain| AND |Special Moves in Duckie Mountain|"
+    "requires": "|Duckie Mountain's Special Moves|"
   },
   "Duckburg - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Duckburg| AND |Special Moves in Duckburg|"
+    "requires": "|Duckburg's Special Moves|"
   },
   "Magica De Spell's Manor - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Magica De Spell's Manor| AND |Special Moves in Magica De Spell's Manor|"
+    "requires": "|Magica De Spell's Manor's Special Moves|"
   },
   "Merlock's Temple - Special Challenge": {
     "connects_to": [],
-    "requires": "|Map to Merlock's Temple| AND |Special Moves in Merlock's Temple|"
+    "requires": "|Merlock's Temple's Special Moves|"
   },
   "Duckie Mountain - Golden Threads": {
     "connects_to": [],
-    "requires": "|Map to Duckie Mountain| AND |Hyper Donald in Duckie Mountain|"
+    "requires": "|Hyper Donald|"
   },
-  "Duckburg- Golden Threads": {
+  "Duckburg - Golden Threads": {
     "connects_to": [],
-    "requires": "|Map to Duckburg| AND |Hyper Donald in Duckburg|"
+    "requires": "|Hyper Donald|"
   },
   "Magica De Spell's Manor - Golden Threads": {
     "connects_to": [],
-    "requires": "|Map to Magica De Spell's Manor| AND |Hyper Donald in Magica De Spell's Manor|"
+    "requires": "|Hyper Donald|"
   },
   "Merlock's Temple - Golden Threads": {
     "connects_to": [],
-    "requires": "|Map to Merlock's Temple| AND |Hyper Donald in Merlock's Temple|"
+    "requires": "|Hyper Donald|"
+  },
+  "Gyro's Room": {
+    "connects_to": [
+      "Duckie Mountain",
+      "Duckburg",
+      "Magica De Spell's Manor",
+      "Merlock's Temple",
+      "The Nephew's Favorites",
+      "Duckie Mountain - Special Moves",
+      "Duckburg - Special Moves",
+      "Magica De Spell's Manor - Special Moves",
+      "Merlock's Temple - Special Moves"
+    ],
+    "starting": true,
+    "requires": ""
+  },
+  "Duckie Mountain - Special Moves": {
+    "connects_to": [],
+    "requires": "|Duckie Mountain's Special Moves|"
+  },
+  "Duckburg - Special Moves": {
+    "connects_to": [],
+    "requires": "|Duckburg's Special Moves|"
+  },
+  "Magica De Spell's Manor - Special Moves": {
+    "connects_to": [],
+    "requires": "|Magica De Spell's Manor's Special Moves|"
+  },
+  "Merlock's Temple - Special Moves": {
+    "connects_to": [],
+    "requires": "|Merlock's Temple's Special Moves|"
+  },
+  "Huey's Track": {
+    "connects_to": [
+      "Huey's Track - Golden Threads"
+    ],
+    "requires": "|Unlock Huey's Track|"
+  },
+  "Dewey's Rooftops": {
+    "connects_to": [
+      "Dewey's Rooftops - Golden Threads"
+    ],
+    "requires": "|Unlock Dewey's Rooftops|"
+  },
+  "Louie's Creepy Corridor": {
+    "connects_to": [
+      "Louie's Creepy Corridor - Golden Threads"
+    ],
+    "requires": "|Unlock Louie's Creepy Corridor|"
+  },
+  "The Nephew's Murky Way": {
+    "connects_to": [
+      "The Nephew's Murky Way - Golden Threads"
+    ],
+    "requires": "|Unlock The Nephew's Murky Way|"
+  },
+  "Huey's Track - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Hyper Donald|"
+  },
+  "Dewey's Rooftops - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Hyper Donald|"
+  },
+  "Louie's Creepy Corridor - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Hyper Donald|"
+  },
+  "The Nephew's Murky Way - Golden Threads": {
+    "connects_to": [],
+    "requires": "|Hyper Donald|"
   }
 }

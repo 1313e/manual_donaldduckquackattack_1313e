@@ -2,13 +2,13 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
   "game": "DonaldDuckQuackAttack",
   "creator": "1313e",
-  "filler_item_name": "Milkshake",
+  "filler_item_name": "Extra Life",
   "starting_items": [
     {
       "item_categories": [
         "Maps"
       ],
-      "random": 2
+      "random": 1
     }
   ]
 }
